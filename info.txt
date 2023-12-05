@@ -1,0 +1,6 @@
+You can download the whole project to check the functionality of this tool by redirecting to each route
+some steps dependencies included are listed below 
+1. Make folder - mkdir folder_name
+2. Install rpm - npm init
+3. Install save-dev packages - npm i —save-dev nodemon 
+4. Install all other depenedencies such as npm i --save express express-session passport passport-google-oauth2
